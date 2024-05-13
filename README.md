@@ -53,6 +53,9 @@
 
 
 ## Output:
+### Name:MANOGARAN S
+### Register Number:212223240081 
+
 ![Screenshot 2024-05-13 172207](https://github.com/manogarans/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139331782/607b5828-8917-46a4-bc7f-1b0c1171a3c9)
 ![Screenshot 2024-05-13 172216](https://github.com/manogarans/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139331782/6721a856-eaa0-4797-92b4-f5ac97cab37c)
 ![Screenshot 2024-05-13 172225](https://github.com/manogarans/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139331782/54b6466b-363f-4407-b51f-4ddd968a1401)
@@ -60,8 +63,7 @@
 
 
 
-### Name:MANOGARAN S
-### Register Number:212223240081 
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
